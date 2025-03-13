@@ -1,1 +1,3 @@
-Data=[1,3,5)\nSom=sum(Data)
+Data=[1,3,5]
+Som=sum(Data)
+print ('la somme est :', Som)
